@@ -19,5 +19,6 @@ public class StringSubrtrings {
         String stringg= "the quick brown fox jums over the lazy dog.";
         System.out.println(stringg.substring(10,25));
 
+
     }
 }
